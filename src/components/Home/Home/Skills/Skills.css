@@ -1,0 +1,73 @@
+.skill-background {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.52), 
+    rgba(49, 47, 47, 0.829)), url('../../../../images/skill.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Javascript */
+#javascript-animation {
+    animation: javascript-fill 2s forwards;
+}
+
+@keyframes javascript-fill {
+    100% {
+        width: 85%;
+    }
+}
+
+/* React */
+#react-animation {
+    animation: react-fill 2s forwards;
+}
+
+@keyframes react-fill {
+    100% {
+        width: 90%;
+    }
+}
+
+/* Svelte */
+#svelte-animation {
+    animation: svelte-fill 2s forwards;
+}
+
+@keyframes svelte-fill {
+    100% {
+        width: 80%;
+    }
+}
+
+/* Node Js */
+#node-animation {
+    animation: node-fill 2s forwards;
+}
+
+@keyframes node-fill {
+    100% {
+        width: 80%;
+    }
+}
+
+/* Tailwind */
+#tailwind-animation {
+    animation: tailwind-fill 2s forwards;
+}
+
+@keyframes tailwind-fill {
+    100% {
+        width: 90%;
+    }
+}
+
+/* My Sql */
+#mySql-animation {
+    animation: mySql-fill 2s forwards;
+}
+
+@keyframes mySql-fill {
+    100% {
+        width: 75%;
+    }
+}
