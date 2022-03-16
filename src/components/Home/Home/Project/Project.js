@@ -22,7 +22,7 @@ const Project = () => {
                                 <p class="paragraph">It's a e-commerce website. There are two admin panels. One is for user and the other is for admin. If the user wants, he can review his order</p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
-                                <Link class="bg-green-400 px-4 py-1 rounded transform duration-300 hover:bg-green-600 hover:text-gray-200" to="/">Live Link</Link>
+                                <a class="bg-green-400 px-4 py-1 rounded transform duration-300 hover:bg-green-600 hover:text-gray-200" target="_blank" href="https://home-painting-d9605.web.app/">Live Link</a>
                             </div>
                         </div>
 
@@ -31,11 +31,11 @@ const Project = () => {
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-20 w-20 text-gray-200 mx-auto" fill="none" viewBox="0   0 24 24" stroke="currentColor">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
                                 </svg>
-                                <h3 class="border-b-2 border-white mb-5">React Project</h3>
-                                <p class="paragraph">This website has been created to provide various travel services. You can reach your destination by signing in with Google and choosing where you want</p>
+                                <h3 class="border-b-2 border-white mb-5">Transport Website</h3>
+                                <p class="paragraph">It's an e-commerce website. There are two admin panels. One is for the user the other is for admin. If the user wants, he can review his order. </p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
-                                <Link class="bg-purple-400 px-4 py-1 rounded transform duration-300 hover:bg-purple-600 hover:text-gray-200" to="/">Live Link</Link>
+                                <a class="bg-purple-400 px-4 py-1 rounded transform duration-300 hover:bg-purple-600 hover:text-gray-200" target="_blank" href="https://vehicles-services.web.app/">Live Link</a>
                             </div>
                         </div>
 
@@ -44,11 +44,11 @@ const Project = () => {
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-20 w-20 text-gray-200 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
                                 </svg>
-                                <h3 class="border-b-2 border-white mb-5">React Project</h3>
-                                <p class="paragraph">In this porject there are different types of computer Products here. When the users click on buy now button he will be asked to login with google</p>
+                                <h3 class="border-b-2 border-white mb-5">E-Commerce Website</h3>
+                                <p class="paragraph">In this project, there are different types of products are here. When the user clicks on the buy button they will be asked to log in with google.</p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
-                                <Link class="bg-sky-400 px-4 py-1 rounded transform duration-300 hover:bg-sky-600 hover:text-gray-200" to="/">Live Link</Link>
+                                <a class="bg-sky-400 px-4 py-1 rounded transform duration-300 hover:bg-sky-600 hover:text-gray-200" target="_blank" href="https://technology-shop-1e32b.web.app/">Live Link</a>
                             </div>
                         </div>
 
@@ -57,11 +57,11 @@ const Project = () => {
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-20 w-20 text-gray-200 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
                                 </svg>
-                                <h3 class="border-b-2 border-white mb-5">React Project</h3>
-                                <p class="paragraph">It's a e-commerce website. There are two admin panels. One is for user and the other is for admin. If the user wants, he can review his order.</p>
+                                <h3 class="border-b-2 border-white mb-5">Svelte Project</h3>
+                                <p class="paragraph">This is a simple SVELTE project where polls can be created and deleted.</p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
-                                <Link class="bg-pink-400 px-4 py-1 rounded transform duration-300 hover:bg-pink-600 hover:text-gray-200" to="/">Live Link</Link>
+                                <a class="bg-pink-400 px-4 py-1 rounded transform duration-300 hover:bg-pink-600 hover:text-gray-200" target="_blank" href="https://white-genovera-67.tiiny.site/">Live Link</a>
                             </div>
                         </div>
 
@@ -70,11 +70,11 @@ const Project = () => {
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-20 w-20 text-gray-200 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
                                 </svg>
-                                <h3 class="border-b-2 border-white mb-5">React Project</h3>
-                                <p class="paragraph">It's a e-commerce website. There are two admin panels. One is for user and the other is for admin. If the user wants, he can review his order.</p>
+                                <h3 class="border-b-2 border-white mb-5">Crypto currency</h3>
+                                <p class="paragraph">This is a cryptocurrency project where the currencies of different countries are given and they will fluctuate constantly.</p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
-                                <Link class="bg-teal-400 px-4 py-1 rounded transform duration-300 hover:bg-teal-600 hover:text-gray-200" to="/">Live Link</Link>
+                                <a class="bg-teal-400 px-4 py-1 rounded transform duration-300 hover:bg-teal-600 hover:text-gray-200" target="_blank" href="https://react-cryptocurrency-c3f54.web.app/">Live Link</a>
                             </div>
                         </div>
 
@@ -83,11 +83,11 @@ const Project = () => {
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-20 w-20 text-gray-200 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
                                 </svg>
-                                <h3 class="border-b-2 border-white mb-5">React Project</h3>
-                                <p class="paragraph">It's a e-commerce website. There are two admin panels. One is for user and the other is for admin. If the user wants, he can review his order.</p>
+                                <h3 class="border-b-2 border-white mb-5">Calculator</h3>
+                                <p class="paragraph">It is a simple calculator made with React and Typescript. It has all the features you need to get started with a simple calculator.</p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
-                                <Link class="bg-indigo-400 px-4 py-1 rounded transform duration-300 hover:bg-indigo-600 hover:text-gray-200" to="/">Live Link</Link>
+                                <a class="bg-indigo-400 px-4 py-1 rounded transform duration-300 hover:bg-indigo-600 hover:text-gray-200" target="_blank" href="https://calculator-6d573.web.app/">Live Link</a>
                             </div>
                         </div>
                     </div>
