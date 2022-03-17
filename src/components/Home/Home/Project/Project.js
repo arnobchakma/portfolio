@@ -19,7 +19,7 @@ const Project = () => {
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                                 </svg>
                                 <h3 class="border-b-2 border-white mb-5">Full Stack Project</h3>
-                                <p class="paragraph">It's a e-commerce website. There are two admin panels. One is for user and the other is for admin. If the user wants, he can review his order</p>
+                                <p class="paragraph">It's an e-commerce website. There are two admin panels. One is for the user the other is for admin. If the user wants, he can review his order.</p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
                                 <a class="bg-green-400 px-4 py-1 rounded transform duration-300 hover:bg-green-600 hover:text-gray-200" target="_blank" href="https://home-painting-d9605.web.app/">Live Link</a>
@@ -32,7 +32,7 @@ const Project = () => {
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
                                 </svg>
                                 <h3 class="border-b-2 border-white mb-5">Transport Website</h3>
-                                <p class="paragraph">It's an e-commerce website. There are two admin panels. One is for the user the other is for admin. If the user wants, he can review his order. </p>
+                                <p class="paragraph">This website has been created to provide various travel services. You can reach your destination by signing in with Google and choosing where you want to go. </p>
                             </div>
                             <div class="flex justify-center text-gray-900 pt-5">
                                 <a class="bg-purple-400 px-4 py-1 rounded transform duration-300 hover:bg-purple-600 hover:text-gray-200" target="_blank" href="https://vehicles-services.web.app/">Live Link</a>
